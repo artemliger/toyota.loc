@@ -1,0 +1,43 @@
+@font-face {
+    font-family: 'ToyotaDisplay-Regular';
+    src: url('ToyotaDisplay-Regular.eot');
+    src: url('ToyotaDisplay-Regular.eot?#iefix') format('embedded-opentype'),
+         url('ToyotaDisplay-Regular.woff2') format('woff2'),
+         url('ToyotaDisplay-Regular.woff') format('woff'),
+         url('ToyotaDisplay-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ToyotaText-Regular';
+    src: url('ToyotaText-Regular.eot');
+    src: url('ToyotaText-Regular.eot?#iefix') format('embedded-opentype'),
+         url('ToyotaText-Regular.woff2') format('woff2'),
+         url('ToyotaText-Regular.woff') format('woff'),
+         url('ToyotaText-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ToyotaDisplay-Bold';
+    src: url('ToyotaDisplay-Bold.eot');
+    src: url('ToyotaDisplay-Bold.eot?#iefix') format('embedded-opentype'),
+         url('ToyotaDisplay-Bold.woff2') format('woff2'),
+         url('ToyotaDisplay-Bold.woff') format('woff'),
+         url('ToyotaDisplay-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ToyotaText-Bold';
+    src: url('ToyotaText-Bold.eot');
+    src: url('ToyotaText-Bold.eot?#iefix') format('embedded-opentype'),
+         url('ToyotaText-Bold.woff2') format('woff2'),
+         url('ToyotaText-Bold.woff') format('woff'),
+         url('ToyotaText-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
